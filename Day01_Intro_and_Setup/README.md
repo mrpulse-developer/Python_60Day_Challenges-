@@ -78,4 +78,4 @@ Follow these steps to get started quickly:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Python-60Day-Challenges.git
+git clone  https://github.com/mrpulse-developer/Python_60Day_Challenges-.git
